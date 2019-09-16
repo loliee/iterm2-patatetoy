@@ -1,16 +1,16 @@
-# PatateToy iTerm2 color theme
+# Patatetoy - iTerm2 Color Presets
 
-My color theme.
+Patatetoy is a joyful [colorscheme](https://github.com/loliee/patatetoy) for daily use.
 
-## Screenshots
+![](screenshot.png)
 
-![screenshot](screenshot.png)
+## Install
 
-## With mlpure prompt
-
-Check [mlpure prompt reository](https://github.com/loliee/mlpure) for detail.
-
-![screenshot](screenshot-2.png)
+```
+curl -Ls https://raw.githubusercontent.com/loliee/iterm2-patatetoy/master/patatetoy.itermcolors \
+  -o /tmp/patatetoy.itermcolors
+open /tmp/patatetoy.itermcolors
+```
 
 ## License
 
